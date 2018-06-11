@@ -1,0 +1,14 @@
+.hello{
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  top: 30%;
+  left: 0;  
+}
+.hello>h1{
+  margin-bottom: 20px;
+}
+.hello button{
+  width: 60px;
+  height: 30px;
+}
